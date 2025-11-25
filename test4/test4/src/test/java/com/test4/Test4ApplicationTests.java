@@ -8,7 +8,7 @@ class Test4ApplicationTests {
 
 	@Test
 	void contextLoads() {
-		hi?
+		System.out.println("hi);
 	}
 
 }
